@@ -20,3 +20,12 @@ A Python script that organizes files in the current directory into subdirectorie
 To install the `tqdm` library, run:
 ```bash
 pip install tqdm
+```
+
+## Output
+-before running the script:
+![desktop_cleaner_1](https://github.com/user-attachments/assets/dd24b5a0-0862-46e3-b4f2-ce0fd9c07f9b)
+
+-after running the script:
+![desktop_cleaner_2](https://github.com/user-attachments/assets/6b417cc4-1f1b-422b-8c73-f942243ee9b7)
+
