@@ -27,7 +27,7 @@ create_if_not_exist('Media')
 create_if_not_exist('Others')
 
 # Get image file extensions
-img_exts = [".png", ".jpg", ".jpeg"]
+img_exts = [".png", ".jpg", ".jpeg", ".gif"]
 images = [file for file in files if os.path.splitext(file)[1].lower() in img_exts]
 
 # Get document file extensions
